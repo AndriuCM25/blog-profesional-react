@@ -164,7 +164,7 @@ Abre un Pull Request
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para detalles.
 
 👨‍💻 Autor
-Tu Nombre
+Valentino Cuenca - AndriuCM25
 
 GitHub: @tu-usuario
 
